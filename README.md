@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/amanbansal-cllg/LEETCODE/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/amanbansal-cllg/LEETCODE/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/amanbansal-cllg/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
