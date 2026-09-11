@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/amanbansal-cllg/LEETCODE/tree/master/0342-power-of-four) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amanbansal-cllg/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amanbansal-cllg/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/amanbansal-cllg/LEETCODE/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/amanbansal-cllg/LEETCODE/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
