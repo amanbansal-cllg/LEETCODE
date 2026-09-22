@@ -6,7 +6,7 @@ public:
     }
     
     int maxVowels(string s, int k) {
-        int maxi = INT_MAX;
+        int maxi = INT_MIN;
         int count = 0;
 
         for (int i =0;i<k;i++){
